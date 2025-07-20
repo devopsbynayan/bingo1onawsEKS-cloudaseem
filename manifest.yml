@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: bingo-container
-        image: nayan.pohare/bingo:latest
+        image: nayanpohare/bingo:latest
         ports:
         - containerPort: 3000
 ---
