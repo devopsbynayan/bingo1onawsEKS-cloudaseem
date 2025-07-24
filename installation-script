@@ -90,6 +90,6 @@ sleep 5
 eksctl version
 kubectl version --client
 terraform -v
-docker -version
+docker --version
 aws --version
 java --version
