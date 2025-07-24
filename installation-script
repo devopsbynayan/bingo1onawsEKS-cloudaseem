@@ -93,3 +93,4 @@ terraform -v
 docker --version
 aws --version
 java --version
+trivy --version
